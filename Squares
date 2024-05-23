@@ -1,0 +1,18 @@
+//*Is this like a notepad?
+
+Well, it doesn't matter, lets put my idea here :
+
+insert square shape, 16 times in a 4x4 grid in a 100px per square
+next, 
+First square, lets call it "S1" and it should be top left most position
+the S1 should function like an on and off button,
+so it must be click to turn it on.
+Color is light green when on and when off its light red
+
+Second square, lets call it "S2" and it should be next to the S1 position,
+the S1 must be on first, then, the function of S2 is color change of all squares to (red, orange, yellow, green, blue, violet) except for S1 when clicked
+
+Third square, lets call it "S3" and it should be next to the S2 position,
+the S1 must be on first, then, the function of S3 is color change to odd numbers (S1, S3, S5, S7, S9, S11, S13, S15) 
+with colors (red, orange, yellow, green, blue, violet) except for S1 when clicked
+//*/
